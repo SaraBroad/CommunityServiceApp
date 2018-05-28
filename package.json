@@ -1,0 +1,19 @@
+{
+  "name": "communityserviceapp",
+  "version": "1.0.0",
+  "description": "I'm creating a community service app for my partner who manages the service learning and community service program at a local private school. This app will make it easier for students to sign-up for events, track sign-ups, get reminders, read about organizations, and assist with other department functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraBroad/CommunityServiceApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraBroad/CommunityServiceApp/issues"
+  },
+  "homepage": "https://github.com/SaraBroad/CommunityServiceApp#readme"
+}
