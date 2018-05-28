@@ -7,21 +7,31 @@ nav {
     height: 100px;
     border-bottom: 1px solid black;
     background: linear-gradient(blue, white, yellow);
+    font-family: 'Tinos', serif;
+   
     /* max-wdith: 100%; */   
 }
 
 h1 {
     padding-top: 30px;
     text-align: center;
+   
+ 
 }
 
 #school-link {
     display: inline;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 #nav-selections {
     display: inline;
     float: right;
-    font-size: 16px;
+    font-size: 20px;
+}
+
+#quote {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Tinos', serif;
 }
