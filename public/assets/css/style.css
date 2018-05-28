@@ -1,5 +1,11 @@
 #header-container {
     height: 100px;
     border-bottom: 1px solid black;
-    background: linear-gradient(blue, yellow);
+    background: linear-gradient(blue, white, yellow);
+    position: fixed;
+}
+
+h1 {
+    padding-top: 30px;
+    text-align: center;
 }
