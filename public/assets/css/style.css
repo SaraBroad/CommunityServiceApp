@@ -17,9 +17,11 @@ h1 {
 
 #school-link {
     display: inline;
+    font-size: 16px;
 }
 
 #nav-selections {
     display: inline;
     float: right;
+    font-size: 16px;
 }
